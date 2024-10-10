@@ -55,3 +55,35 @@ let nooftables=6;
 // 10 numbers
 // 10 strings
 // 10 boolean values
+
+let numBedrooms=4;
+let nunBatherooms= 3;
+let houseAreaSqft=2500;
+let yardAreaSqft=500;
+let numWindows=10;
+let numDoors=5;
+let yearBuilt= 2021;
+let housePriceUsd=350000;
+let garageSize=2;
+
+let houseAddress='30 david ejoor street';
+let city='apo';
+let state='abuja';
+let country='nigeria';
+let style='colonial';
+let roofType='shingle';
+let flooringType='tiles';
+let paintColour='grey';
+let ownerName='Mr Onwuharonye';
+let neighborhood='apo resettlement';
+
+let hasGarage=true;
+let hasPool=false;
+let hasBasement=true;
+let hasFireplace=true;
+let isFunished=true;
+let isForSale=false;
+let isSingleFamily=true;
+let hasCentralAir=true;
+let hasSolarPanel=false;
+let isEnergyEfficient=true;
